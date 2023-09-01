@@ -4,7 +4,7 @@
   "description": "This Cypress framework is developed using javascript, page object design pattern. For reporting: allure framework is used. ",
   "main": "index.js",
   "scripts": {
-    "allTests": "TZ=Europe/Amsterdam ./node_modules/.bin/cypress run -e TAGS=\"@AllCases\"",
+    "test-headless": "TZ=Europe/Amsterdam ./node_modules/.bin/cypress run -e TAGS=\"@AllCases\"",
     "test-headed": "npx cypress run --env allure-report=true --headed",
     "open:cypress": "cypress open",
     "report": "allure generate -c",
