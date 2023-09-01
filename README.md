@@ -24,7 +24,7 @@ For reporting, Cucumber framework is used to see the test execution results.
  <li>To execute tests in headed mode:<br> 
     <code>npm run test-headed</code> 
 </li>
- <li>After execution, to generate reports:<br> 
+ <li>You can see th results in the console after execution or To generate reports:<br> 
     <code>npm run cucumberReport</code>
 </li> 
 <li>Open index.html file in report folder to view the results.<br> 
