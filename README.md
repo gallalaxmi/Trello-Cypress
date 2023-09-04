@@ -29,3 +29,5 @@ For reporting, Cucumber framework is used to see the test execution results.
 </li> 
 <li>Open index.html file in report folder to view the results.<br> 
 </li> 
+<h3> Sample Report <h3>
+<img width="1655" alt="Screenshot 2023-09-04 at 06 11 20" src="https://github.com/gallalaxmi/Trello-Cypress/assets/94502443/10440b17-5ba7-4174-818f-f4a4f738b7ab">
